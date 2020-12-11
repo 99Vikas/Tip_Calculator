@@ -1,0 +1,12 @@
+.vertical-line{
+    border-right: 1px solid#c5c5c5;
+    
+  }
+
+  .padding{
+      padding: 50px 0px 10px 50px;
+  }
+
+  .link-style{
+      cursor: pointer;
+  }
