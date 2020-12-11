@@ -1,7 +1,7 @@
 # Tip Calculator
 
 
-
+# NOTE :- Internet Connection is Mandatory as it using BootStrap-CDN
 
 # Introduction
 
